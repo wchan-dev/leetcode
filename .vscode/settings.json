@@ -1,0 +1,10 @@
+{
+    "workbench.preferredDarkColorTheme": "Mariana Nord",
+    "workbench.colorTheme": "Atom One Dark",
+    "[python]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 4  
+      }
+    
+}
+
